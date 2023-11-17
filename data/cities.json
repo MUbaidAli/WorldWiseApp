@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-10T16:06:26.086Z",
+      "notes": "",
+      "position": {
+        "lat": "40.01841252357908",
+        "lng": "-0.021629333496093753"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Karachi",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2023-11-10T17:49:14.426Z",
+      "notes": "",
+      "position": {
+        "lat": "24.901696257763007",
+        "lng": "67.04063415527345"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Kotri",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2023-11-12T13:33:57.127Z",
+      "notes": "",
+      "position": {
+        "lat": "25.362951584168144",
+        "lng": "68.30749511718751"
+      },
+      "id": 98443209
+    }
+  ]
+}
